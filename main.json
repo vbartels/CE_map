@@ -279,6 +279,11 @@
                  "value":"https:\/\/sonomotors.com\/de\/sion\/?lang=de"
                 }, 
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/sonomotors.com\/de\/sion\/?lang=de"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -303,6 +308,11 @@
          "properties":[
                 {
                  "name":"openTab",
+                 "type":"string",
+                 "value":"https:\/\/ladefuchs.app\/"
+                }, 
+                {
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ladefuchs.app\/"
                 }, 
