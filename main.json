@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"world:\/\/lobby\/pcb.json#start_CleanElectric"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -129,17 +129,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"comment",
-                 "type":"string",
-                 "value":"YT TB Channel"
-                }, 
-                {
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/channel\/UCG1QcV31eoSaX4rE8avQL4A"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
@@ -161,11 +156,6 @@
          "name":"LINK seed greet",
          "opacity":1,
          "properties":[
-                {
-                 "name":"comment",
-                 "type":"string",
-                 "value":"electrive video schueren"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -194,11 +184,6 @@
          "name":"LINK SuC 1",
          "opacity":1,
          "properties":[
-                {
-                 "name":"comment",
-                 "type":"string",
-                 "value":"Plaid"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -289,7 +274,7 @@
                  "value":"https:\/\/sonomotors.com\/de\/sion\/?lang=de"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
@@ -317,7 +302,7 @@
                  "value":"https:\/\/ladefuchs.app\/"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
