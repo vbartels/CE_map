@@ -4147,6 +4147,23 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":150,
+                         "tileid":95
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":97
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":135
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":137
+                        }],
                  "id":95,
                  "properties":[
                         {
@@ -4156,6 +4173,23 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":150,
+                         "tileid":96
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":98
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":136
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":138
+                        }],
                  "id":96,
                  "properties":[
                         {
@@ -4362,6 +4396,23 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":150,
+                         "tileid":115
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":117
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":155
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":157
+                        }],
                  "id":115,
                  "properties":[
                         {
@@ -4371,6 +4422,23 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":150,
+                         "tileid":116
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":118
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":156
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":158
+                        }],
                  "id":116,
                  "properties":[
                         {
