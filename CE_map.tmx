@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="64" height="48" tilewidth="32" tileheight="32" infinite="0" nextlayerid="20" nextobjectid="1">
+ <editorsettings>
+  <export target="main.json" format="json"/>
+ </editorsettings>
  <properties>
   <property name="mapCopyright" value="CC0"/>
  </properties>
@@ -327,7 +330,7 @@
  </layer>
  <layer id="11" name="LINK TB" width="64" height="48">
   <properties>
-   <property name="comment" value="YT TB"/>
+   <property name="comment" value="YT TB Channel"/>
    <property name="openWebsite" value="https://www.youtube.com/channel/UCG1QcV31eoSaX4rE8avQL4A"/>
    <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
