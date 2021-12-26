@@ -89,7 +89,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,6 +163,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open interview with mastermind \"B\u00e4cker Sch\u00fcren\" behind the seed & greet project."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -191,6 +196,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open youtube video with the new \"latest & greatest\" Tesla Model S Plaid climb up the legendary pikes peak road and set a new record."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -214,6 +224,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open the best directory of charging stations in germany."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,6 +252,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open a very good comparison of charging prices?"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -260,6 +280,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open the website of Sono Motors, a car with solar panels."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,6 +308,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open the website of the Ladefuchs App."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,6 +336,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open a better route planner (for EVs)."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -329,6 +364,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Open EV-Database?"
                 }],
          "type":"tilelayer",
          "visible":true,

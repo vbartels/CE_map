@@ -3,16 +3,19 @@
  <image source="tiles_png/structures/rc3-mullana-floor-wall.png" width="512" height="512"/>
  <tile id="0">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
  <tile id="1">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
  <tile id="2">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
@@ -83,16 +86,19 @@
  </tile>
  <tile id="16">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
  <tile id="17">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
  <tile id="18">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
@@ -163,16 +169,19 @@
  </tile>
  <tile id="32">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
  <tile id="33">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
  <tile id="34">
   <properties>
+   <property name="name" value="CE_structures"/>
    <property name="tilesetCopyright" value="CC0"/>
   </properties>
  </tile>
