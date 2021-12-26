@@ -2983,11 +2983,6 @@
                  "id":1,
                  "properties":[
                         {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -3341,11 +3336,6 @@
                  "id":28,
                  "properties":[
                         {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -3498,11 +3488,6 @@
                 {
                  "id":40,
                  "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -3972,11 +3957,6 @@
                 {
                  "id":76,
                  "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -4501,11 +4481,6 @@
                 {
                  "id":120,
                  "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
