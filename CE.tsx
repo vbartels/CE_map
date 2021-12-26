@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.5" tiledversion="1.7.2" name="CE" tilewidth="32" tileheight="32" tilecount="400" columns="20">
+ <properties>
+  <property name="tilesetCopyright" value="CC0 veit bartels"/>
+ </properties>
  <image source="cars/CE_TILES.png" width="640" height="640"/>
  <tile id="0">
   <properties>
@@ -8,61 +11,73 @@
  </tile>
  <tile id="1">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="2">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="3">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="4">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="5">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="6">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="7">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="8">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="9">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="10">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="11">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="12">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -78,21 +93,25 @@
  </tile>
  <tile id="15">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="16">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="17">
   <properties>
+   <property name="collides" type="bool" value="false"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="18">
   <properties>
+   <property name="collides" type="bool" value="false"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -108,66 +127,79 @@
  </tile>
  <tile id="21">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="22">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="23">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="24">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="25">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="26">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="27">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="28">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="29">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="30">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="31">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="32">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="33">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -178,21 +210,25 @@
  </tile>
  <tile id="35">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="36">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="37">
   <properties>
+   <property name="collides" type="bool" value="false"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="38">
   <properties>
+   <property name="collides" type="bool" value="false"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -203,41 +239,49 @@
  </tile>
  <tile id="40">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="41">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="42">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="43">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="44">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="45">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="46">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="47">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -248,36 +292,43 @@
  </tile>
  <tile id="49">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="50">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="51">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="52">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="53">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="54">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="55">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -288,11 +339,13 @@
  </tile>
  <tile id="57">
   <properties>
+   <property name="collides" type="bool" value="false"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="58">
   <properties>
+   <property name="collides" type="bool" value="false"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -303,11 +356,13 @@
  </tile>
  <tile id="60">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="61">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -323,11 +378,13 @@
  </tile>
  <tile id="64">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="65">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -338,51 +395,61 @@
  </tile>
  <tile id="67">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="68">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="69">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="70">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="71">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="72">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="73">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="74">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="75">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="76">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -393,6 +460,7 @@
  </tile>
  <tile id="78">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -413,16 +481,19 @@
  </tile>
  <tile id="82">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="83">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="84">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -433,6 +504,7 @@
  </tile>
  <tile id="86">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -480,11 +552,23 @@
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="95" duration="200"/>
+   <frame tileid="97" duration="200"/>
+   <frame tileid="135" duration="200"/>
+   <frame tileid="137" duration="200"/>
+  </animation>
  </tile>
  <tile id="96">
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="96" duration="200"/>
+   <frame tileid="98" duration="200"/>
+   <frame tileid="136" duration="200"/>
+   <frame tileid="138" duration="200"/>
+  </animation>
  </tile>
  <tile id="97">
   <properties>
@@ -508,21 +592,25 @@
  </tile>
  <tile id="101">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="102">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="103">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="104">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -533,6 +621,7 @@
  </tile>
  <tile id="106">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -582,11 +671,23 @@
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="115" duration="200"/>
+   <frame tileid="117" duration="200"/>
+   <frame tileid="155" duration="200"/>
+   <frame tileid="157" duration="200"/>
+  </animation>
  </tile>
  <tile id="116">
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="116" duration="200"/>
+   <frame tileid="118" duration="200"/>
+   <frame tileid="156" duration="200"/>
+   <frame tileid="158" duration="200"/>
+  </animation>
  </tile>
  <tile id="117">
   <properties>
@@ -605,41 +706,49 @@
  </tile>
  <tile id="120">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="121">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="122">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="123">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="124">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="125">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="126">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="127">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -737,11 +846,13 @@
  </tile>
  <tile id="146">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
  <tile id="147">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -837,6 +948,7 @@
  </tile>
  <tile id="166">
   <properties>
+   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
