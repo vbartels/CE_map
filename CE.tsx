@@ -813,6 +813,10 @@
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="140" duration="400"/>
+   <frame tileid="141" duration="400"/>
+  </animation>
  </tile>
  <tile id="141">
   <properties>
