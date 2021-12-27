@@ -975,16 +975,31 @@
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="171" duration="100"/>
+   <frame tileid="174" duration="100"/>
+   <frame tileid="177" duration="100"/>
+  </animation>
  </tile>
  <tile id="172">
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="172" duration="100"/>
+   <frame tileid="175" duration="100"/>
+   <frame tileid="178" duration="100"/>
+  </animation>
  </tile>
  <tile id="173">
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="173" duration="100"/>
+   <frame tileid="176" duration="100"/>
+   <frame tileid="179" duration="100"/>
+  </animation>
  </tile>
  <tile id="174">
   <properties>
@@ -1075,16 +1090,31 @@
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="191" duration="100"/>
+   <frame tileid="194" duration="100"/>
+   <frame tileid="197" duration="100"/>
+  </animation>
  </tile>
  <tile id="192">
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="192" duration="100"/>
+   <frame tileid="195" duration="100"/>
+   <frame tileid="198" duration="100"/>
+  </animation>
  </tile>
  <tile id="193">
   <properties>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
+  <animation>
+   <frame tileid="193" duration="100"/>
+   <frame tileid="196" duration="100"/>
+   <frame tileid="199" duration="100"/>
+  </animation>
  </tile>
  <tile id="194">
   <properties>
