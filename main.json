@@ -5943,6 +5943,11 @@
                  "id":254,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5951,6 +5956,11 @@
                 {
                  "id":255,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5961,6 +5971,11 @@
                  "id":256,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5970,6 +5985,11 @@
                  "id":257,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5978,6 +5998,11 @@
                 {
                  "id":258,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -6123,6 +6148,11 @@
                  "id":274,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -6131,6 +6161,11 @@
                 {
                  "id":275,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -6141,6 +6176,11 @@
                  "id":276,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -6150,6 +6190,11 @@
                  "id":277,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -6158,6 +6203,11 @@
                 {
                  "id":278,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
