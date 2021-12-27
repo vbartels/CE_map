@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="64" height="48" tilewidth="32" tileheight="32" infinite="0" nextlayerid="26" nextobjectid="4">
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="64" height="48" tilewidth="32" tileheight="32" infinite="0" nextlayerid="26" nextobjectid="7">
  <editorsettings>
   <export target="CE.json" format="json"/>
  </editorsettings>
@@ -283,7 +283,7 @@
  <objectgroup id="24" name="badge">
   <object id="3" x="833" y="320" width="126" height="11">
    <properties>
-    <property name="getBadge" value="McSSPIq8Gy3upwPar94kcl1usKlXBxSzCl8UgV3JafcMbShYkr "/>
+    <property name="getBadge" value="McSSPIq8Gy3upwPar94kcl1usKlXBxSzCl8UgV3JafcMbShYkr"/>
    </properties>
   </object>
  </objectgroup>
