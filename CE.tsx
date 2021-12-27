@@ -11,7 +11,6 @@
  </tile>
  <tile id="1">
   <properties>
-   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -169,7 +168,6 @@
  </tile>
  <tile id="28">
   <properties>
-   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -239,7 +237,6 @@
  </tile>
  <tile id="40">
   <properties>
-   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -449,7 +446,6 @@
  </tile>
  <tile id="76">
   <properties>
-   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
@@ -706,7 +702,6 @@
  </tile>
  <tile id="120">
   <properties>
-   <property name="collides" type="bool" value="true"/>
    <property name="tilesetCopyright" value="CC0 veit bartels"/>
   </properties>
  </tile>
