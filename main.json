@@ -5060,6 +5060,11 @@
                  "id":160,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5068,6 +5073,11 @@
                 {
                  "id":161,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5078,6 +5088,11 @@
                  "id":162,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5086,6 +5101,11 @@
                 {
                  "id":163,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5096,6 +5116,11 @@
                  "id":164,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5104,6 +5129,11 @@
                 {
                  "id":165,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5297,6 +5327,11 @@
                  "id":180,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5305,6 +5340,11 @@
                 {
                  "id":181,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5315,6 +5355,11 @@
                  "id":182,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5324,6 +5369,11 @@
                  "id":183,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5332,6 +5382,11 @@
                 {
                  "id":184,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5354,6 +5409,11 @@
                         }],
                  "id":185,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5529,6 +5589,11 @@
                  "id":200,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5537,6 +5602,11 @@
                 {
                  "id":201,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5547,6 +5617,11 @@
                  "id":202,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5555,6 +5630,11 @@
                 {
                  "id":203,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -5565,6 +5645,11 @@
                  "id":204,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0 veit bartels"
@@ -5573,6 +5658,11 @@
                 {
                  "id":205,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
